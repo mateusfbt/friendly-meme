@@ -1,17 +1,1 @@
-Fixação 
-
-Fixação 
-
-Fixação 
-
-Fixação 
-
-Alteração
-
-Alteração
-
-Alteração
-
-Alteração
-
-Alteração
+Alterei tudo nessa nova branch, para fixar comandos git
